@@ -7,15 +7,18 @@ A list of markdown badges you can use in your markdown files.
 **.ENV**
 
 ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
-![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white&color=%23ECD53F)
 ![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
+![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white&color=%23ECD53F)
+![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white&label=.ENV&labelColor=%23ECD53F&color=gray)
 
 ```md
 ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
 
+![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
+
 ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white&color=%23ECD53F)
 
-![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
+![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white&label=.ENV&labelColor=%23ECD53F&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -23,11 +26,14 @@ A list of markdown badges you can use in your markdown files.
 **.NET**
 
 ![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
-![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&label=.NET&labelColor=gray&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&label=.NET&labelColor=%23512BD4&color=gray)
 
 ```md
 ![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
+
+![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&label=.NET&labelColor=gray&color=%23512BD4)
 
 ![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 
