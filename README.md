@@ -5,10 +5,12 @@ A list of markdown badges you can use in your markdown files.
 ## List of Badges
 
 - .ENV
-  - Pure
-    ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
+  
+  **Pure**
 
-    `![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)`
+  ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
+
+  `![Static Badge](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)`
 
 | Name            | Preview                                                                                                                                                           | Markdown                                                                                                                                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
