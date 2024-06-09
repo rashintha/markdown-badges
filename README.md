@@ -21,3 +21,5 @@ A list of markdown badges you can use in your markdown files.
 ```md
 ![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
 ```
+
+* Find the `Replace-me` text and replace it with what you desire.
