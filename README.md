@@ -22,12 +22,12 @@ A list of markdown badges you can use in your markdown files.
 
 **.NET**
 
-![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23ECD53F&color=gray)
+![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
 ![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/Replace_me-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&label=.NET&labelColor=%23512BD4&color=gray)
 
 ```md
-![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23ECD53F&color=gray)
+![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
 
 ![Static Badge](https://img.shields.io/badge/.NET-%23ECD53F.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 
