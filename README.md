@@ -146,3 +146,12 @@ A list of markdown badges you can use in your markdown files.
 ![Sass](https://img.shields.io/badge/Replace_me-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&label=Sass&labelColor=%23CC6699&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
+
+
+**Tailwind CSS**
+
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=gray)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&label=Tailwind%20CSS&labelColor=gray&color=%2306B6D4)
+
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&label=Tawilwind%20CSS&labelColor=%2306B6D4&color=gray)
