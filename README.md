@@ -128,3 +128,21 @@ A list of markdown badges you can use in your markdown files.
 ![Rust](https://img.shields.io/badge/Replace_me-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&label=Rust&labelColor=%23000000&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
+
+
+**Sass**
+
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=gray)
+![Sass](https://img.shields.io/badge/Replace_me-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699&label=Sass&labelColor=gray&color=%23CC6699)
+
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
+![Sass](https://img.shields.io/badge/Replace_me-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&label=Sass&labelColor=%23CC6699&color=gray)
+
+```md
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=gray)
+![Sass](https://img.shields.io/badge/Replace_me-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699&label=Sass&labelColor=gray&color=%23CC6699)
+
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
+![Sass](https://img.shields.io/badge/Replace_me-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&label=Sass&labelColor=%23CC6699&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
