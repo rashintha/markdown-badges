@@ -75,6 +75,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Angular**
+
+![Angular](https://img.shields.io/badge/angular-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=%23dd1b16&color=gray)
+![Angular](https://img.shields.io/badge/Replace_me-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=%23dd1b16&label=Angular&labelColor=gray&color=%23dd1b16)
+
+![Angular](https://img.shields.io/badge/angular-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23dd1b16)
+![Angular](https://img.shields.io/badge/Replace_me-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white&label=Angular&labelColor=%23dd1b16&color=gray)
+
+```md
+![Angular](https://img.shields.io/badge/angular-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=%23dd1b16&color=gray)
+![Angular](https://img.shields.io/badge/Replace_me-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=%23dd1b16&label=Angular&labelColor=gray&color=%23dd1b16)
+
+![Angular](https://img.shields.io/badge/angular-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white&color=%23dd1b16)
+![Angular](https://img.shields.io/badge/Replace_me-%23dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white&label=Angular&labelColor=%23dd1b16&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **MongoDB**
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&color=gray)
