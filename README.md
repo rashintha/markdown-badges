@@ -239,7 +239,7 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
-**Redis**
+**ReactiveX**
 
 ![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&color=gray)
 ![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&label=ReactiveX&labelColor=gray&color=%23B7178C)
