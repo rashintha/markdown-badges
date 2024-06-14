@@ -223,6 +223,24 @@ A list of markdown badges you can use in your markdown files.
 
 **Redis**
 
+![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&color=gray)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&label=ReactiveX&labelColor=gray&color=%23B7178C)
+
+![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=white&color=%23B7178C)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&label=ReactiveX&labelColor=%23B7178C&color=gray)
+
+```md
+![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&color=gray)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&label=ReactiveX&labelColor=gray&color=%23B7178C)
+
+![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=white&color=%23B7178C)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&label=ReactiveX&labelColor=%23B7178C&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
+**Redis**
+
 ![Redis](https://img.shields.io/badge/redis-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
 ![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&label=Redis&labelColor=gray&color=%23FF4438)
 
