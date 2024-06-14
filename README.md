@@ -146,7 +146,25 @@ A list of markdown badges you can use in your markdown files.
 ![MongoDB](https://img.shields.io/badge/Replace_me-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&label=MONGODB&labelColor=%2347A248&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
-  
+
+
+**Redis**
+
+![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
+![Redis](https://img.shields.io/badge/Replace_me-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=%23FF4438&label=Redis&labelColor=gray&color=%23FF4438)
+
+![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white&color=%23FF4438)
+![Redis](https://img.shields.io/badge/Replace_me-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white&label=Redis&labelColor=%23FF4438&color=gray)
+
+```md
+![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
+![Redis](https://img.shields.io/badge/Replace_me-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=%23FF4438&label=Redis&labelColor=gray&color=%23FF4438)
+
+![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white&color=%23FF4438)
+![Redis](https://img.shields.io/badge/Replace_me-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white&label=Redis&labelColor=%23FF4438&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
 
 **Rust**
 
