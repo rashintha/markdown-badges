@@ -148,6 +148,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Firebase**
+
+![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=gray)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&label=Firebase&labelColor=gray&color=%23DD2C00)
+
+![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&label=Firebase&labelColor=%23DD2C00&color=gray)
+
+```md
+![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=gray)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&label=Firebase&labelColor=gray&color=%23DD2C00)
+
+![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&label=Firebase&labelColor=%23DD2C00&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Go**
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
