@@ -161,7 +161,7 @@ A list of markdown badges you can use in your markdown files.
 ![MongoDB](https://img.shields.io/badge/mongodb-badge?style=for-the-badge&logo=mongodb&color=gray)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=MONGODB&labelColor=gray&color=%2347A248)
 
-![MongoDB](https://img.shields.io/badge/mongodb-badge?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=white&label=MONGODB&labelColor=%2347A248&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
