@@ -93,6 +93,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Go**
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8&label=Go&labelColor=gray&color=%2300ADD8)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
+![Go](https://img.shields.io/badge/Replace_me-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&label=Go&labelColor=%2300ADD8&color=gray)
+
+```md
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8&label=Go&labelColor=gray&color=%2300ADD8)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
+![Go](https://img.shields.io/badge/Replace_me-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&label=Go&labelColor=%2300ADD8&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **MongoDB**
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&color=gray)
