@@ -94,6 +94,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Apache ECharts**
+
+![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&color=gray)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&label=Apache%20ECharts&labelColor=gray&color=%23AA344D)
+
+![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&color=%23AA344D)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&label=Apache%20ECharts&labelColor=%23AA344D&color=gray)
+
+```md
+![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&color=gray)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&label=Apache%20ECharts&labelColor=gray&color=%23AA344D)
+
+![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&color=%23AA344D)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&label=Apache%20ECharts&labelColor=%23AA344D&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Font Awesome**
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
