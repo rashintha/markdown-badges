@@ -132,16 +132,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
 ![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&label=Font%20Awesome&labelColor=gray&color=%23538DD7)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&labelColor=gray&color=%23538DD7)
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=white&color=%23538DD7)
 ![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&label=Font%20Awesome&labelColor=%23538DD7&color=gray)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&labelColor=%23538DD7&color=gray)
 
 ```md
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
 ![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&label=Font%20Awesome&labelColor=gray&color=%23538DD7)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&labelColor=gray&color=%23538DD7)
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=white&color=%23538DD7)
 ![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&label=Font%20Awesome&labelColor=%23538DD7&color=gray)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&labelColor=%23538DD7&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -150,16 +154,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&color=gray)
 ![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&label=ESLint&labelColor=gray&color=%234B32C3)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&labelColor=gray&color=%234B32C3)
 
 ![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=white&color=%234B32C3)
 ![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&label=ESLint&labelColor=%234B32C3&color=gray)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&labelColor=%234B32C3&color=gray)
 
 ```md
 ![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&color=gray)
 ![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&label=ESLint&labelColor=gray&color=%234B32C3)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&labelColor=gray&color=%234B32C3)
 
 ![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=white&color=%234B32C3)
 ![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&label=ESLint&labelColor=%234B32C3&color=gray)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&labelColor=%234B32C3&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
