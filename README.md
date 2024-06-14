@@ -148,6 +148,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**RabbitMQ**
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&label=RabbitMQ&labelColor=gray&color=%23FF6600)
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&color=%23FF6600)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&label=RabbitMQ&labelColor=%23FF6600&color=gray)
+
+```md
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&label=RabbitMQ&labelColor=gray&color=%23FF6600)
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&color=%23FF6600)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white&label=RabbitMQ&labelColor=%23FF6600&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Redis**
 
 ![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
