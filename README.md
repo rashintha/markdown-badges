@@ -130,6 +130,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**ESLint**
+
+![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&color=gray)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&label=ESLint&labelColor=gray&color=%234B32C3)
+
+![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=white&color=%234B32C3)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&label=ESLint&labelColor=%234B32C3&color=gray)
+
+```md
+![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&color=gray)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=%234B32C3&label=ESLint&labelColor=gray&color=%234B32C3)
+
+![ESLint](https://img.shields.io/badge/eslint-badge?style=for-the-badge&logo=eslint&logoColor=white&color=%234B32C3)
+![ESLint](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=eslint&logoColor=white&label=ESLint&labelColor=%234B32C3&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Go**
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
