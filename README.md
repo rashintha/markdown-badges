@@ -309,16 +309,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
 ![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&label=RabbitMQ&labelColor=gray&color=%23FF6600)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&labelColor=gray&color=%23FF6600)
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&color=%23FF6600)
 ![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&label=RabbitMQ&labelColor=%23FF6600&color=gray)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=%23FF6600&color=gray)
 
 ```md
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
 ![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&label=RabbitMQ&labelColor=gray&color=%23FF6600)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&labelColor=gray&color=%23FF6600)
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&color=%23FF6600)
 ![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&label=RabbitMQ&labelColor=%23FF6600&color=gray)
+![RabbitMQ](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=%23FF6600&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -327,16 +331,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&color=gray)
 ![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&label=ReactiveX&labelColor=gray&color=%23B7178C)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&labelColor=gray&color=%23B7178C)
 
 ![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=white&color=%23B7178C)
 ![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&label=ReactiveX&labelColor=%23B7178C&color=gray)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=%23B7178C&color=gray)
 
 ```md
 ![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&color=gray)
 ![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&label=ReactiveX&labelColor=gray&color=%23B7178C)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=%23B7178C&labelColor=gray&color=%23B7178C)
 
 ![ReactiveX](https://img.shields.io/badge/reactivex-badge?style=for-the-badge&logo=reactivex&logoColor=white&color=%23B7178C)
 ![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&label=ReactiveX&labelColor=%23B7178C&color=gray)
+![ReactiveX](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=%23B7178C&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -345,16 +353,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Redis](https://img.shields.io/badge/redis-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
 ![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&label=Redis&labelColor=gray&color=%23FF4438)
+![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&labelColor=gray&color=%23FF4438)
 
 ![Redis](https://img.shields.io/badge/redis-badge?style=for-the-badge&logo=redis&logoColor=white&color=%23FF4438)
 ![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=white&label=Redis&labelColor=%23FF4438&color=gray)
+![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23FF4438&color=gray)
 
 ```md
 ![Redis](https://img.shields.io/badge/redis-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&color=gray)
 ![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&label=Redis&labelColor=gray&color=%23FF4438)
+![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=%23FF4438&labelColor=gray&color=%23FF4438)
 
 ![Redis](https://img.shields.io/badge/redis-badge?style=for-the-badge&logo=redis&logoColor=white&color=%23FF4438)
 ![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=white&label=Redis&labelColor=%23FF4438&color=gray)
+![Redis](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23FF4438&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -363,16 +375,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Rust](https://img.shields.io/badge/rust-badge?style=for-the-badge&logo=rust&logoColor=%23000000&color=gray)
 ![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=%23000000&label=Rust&labelColor=gray&color=%23000000)
+![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=gray&color=%23000000)
 
 ![Rust](https://img.shields.io/badge/rust-badge?style=for-the-badge&logo=rust&logoColor=white&color=%23000000)
 ![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=white&label=Rust&labelColor=%23000000&color=gray)
+![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=white&labelColor=%23000000&color=gray)
 
 ```md
 ![Rust](https://img.shields.io/badge/rust-badge?style=for-the-badge&logo=rust&logoColor=%23000000&color=gray)
 ![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=%23000000&label=Rust&labelColor=gray&color=%23000000)
+![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=gray&color=%23000000)
 
 ![Rust](https://img.shields.io/badge/rust-badge?style=for-the-badge&logo=rust&logoColor=white&color=%23000000)
 ![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=white&label=Rust&labelColor=%23000000&color=gray)
+![Rust](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=rust&logoColor=white&labelColor=%23000000&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -381,16 +397,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Sass](https://img.shields.io/badge/sass-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=gray)
 ![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&label=Sass&labelColor=gray&color=%23CC6699)
+![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=gray&color=%23CC6699)
 
 ![Sass](https://img.shields.io/badge/sass-badge?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
 ![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=white&label=Sass&labelColor=%23CC6699&color=gray)
+![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=white&labelColor=%23CC6699&color=gray)
 
 ```md
 ![Sass](https://img.shields.io/badge/sass-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=gray)
 ![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&label=Sass&labelColor=gray&color=%23CC6699)
+![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=gray&color=%23CC6699)
 
 ![Sass](https://img.shields.io/badge/sass-badge?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699)
 ![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=white&label=Sass&labelColor=%23CC6699&color=gray)
+![Sass](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=sass&logoColor=white&labelColor=%23CC6699&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -399,15 +419,19 @@ A list of markdown badges you can use in your markdown files.
 
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=gray)
 ![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&label=Tailwind%20CSS&labelColor=gray&color=%2306B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=gray&color=%2306B6D4)
 
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
 ![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&label=Tawilwind%20CSS&labelColor=%2306B6D4&color=gray)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=gray)
 
 ```md
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=gray)
 ![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&label=Tailwind%20CSS&labelColor=gray&color=%2306B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=gray&color=%2306B6D4)
 
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
 ![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&label=Tawilwind%20CSS&labelColor=%2306B6D4&color=gray)
+![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
