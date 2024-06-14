@@ -202,6 +202,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**i18next**
+
+![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&label=i18next&labelColor=gray&color=%2326A69A)
+
+![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=white&color=%2326A69A)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&label=i18next&labelColor=%2326A69A&color=gray)
+
+```md
+![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&label=i18next&labelColor=gray&color=%2326A69A)
+
+![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=white&color=%2326A69A)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&label=i18next&labelColor=%2326A69A&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Microsoft SQL Server**
 
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-badge?style=for-the-badge&logo=microsoft-sql-server&color=gray&logoColor=%23CC2927)
