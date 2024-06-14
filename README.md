@@ -30,16 +30,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![.NET](https://img.shields.io/badge/.NET-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
 ![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&label=.NET&labelColor=gray&color=%23512BD4)
+![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&labelColor=gray&color=%23512BD4)
 
 ![.NET](https://img.shields.io/badge/.NET-badge?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 ![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=white&label=.NET&labelColor=%23512BD4&color=gray)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=gray)
 
 ```md
 ![.NET](https://img.shields.io/badge/.NET-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&color=gray)
 ![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&label=.NET&labelColor=gray&color=%23512BD4)
+![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&labelColor=gray&color=%23512BD4)
 
 ![.NET](https://img.shields.io/badge/.NET-badge?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4)
 ![.NET](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=white&label=.NET&labelColor=%23512BD4&color=gray)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=%23512BD4&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
