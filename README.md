@@ -110,16 +110,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&color=gray)
 ![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&label=Apache%20ECharts&labelColor=gray&color=%23AA344D)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&labelColor=gray&color=%23AA344D)
 
 ![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&color=%23AA344D)
 ![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&label=Apache%20ECharts&labelColor=%23AA344D&color=gray)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&labelColor=%23AA344D&color=gray)
 
 ```md
 ![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&color=gray)
 ![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&label=Apache%20ECharts&labelColor=gray&color=%23AA344D)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=%23AA344D&labelColor=gray&color=%23AA344D)
 
 ![Apache ECharts](https://img.shields.io/badge/apache_echarts-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&color=%23AA344D)
 ![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&label=Apache%20ECharts&labelColor=%23AA344D&color=gray)
+![Apache ECharts](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=apache-echarts&logoColor=white&labelColor=%23AA344D&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
