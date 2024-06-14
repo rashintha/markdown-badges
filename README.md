@@ -94,6 +94,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Font Awesome**
+
+![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&label=Font%20Awesome&labelColor=gray&color=%23538DD7)
+
+![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=white&color=%23538DD7)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&label=Font%20Awesome&labelColor=%23538DD7&color=gray)
+
+```md
+![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&label=Font%20Awesome&labelColor=gray&color=%23538DD7)
+
+![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=white&color=%23538DD7)
+![Font Awesome](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=font-awesome&logoColor=white&label=Font%20Awesome&labelColor=%23538DD7&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Go**
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
