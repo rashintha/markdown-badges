@@ -111,6 +111,24 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Microsoft SQL Server**
+
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&color=gray&logoColor=%23CC2927)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23CC2927&label=Microsoft%20SQL%20Server&labelColor=gray&color=%23CC2927)
+
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&label=Microsoft%20SQL%20Server&labelColor=%23CC2927&color=gray)
+
+```md
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&color=gray&logoColor=%23CC2927)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23CC2927&label=Microsoft%20SQL%20Server&labelColor=gray&color=%23CC2927)
+
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&label=Microsoft%20SQL%20Server&labelColor=%23CC2927&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **MongoDB**
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&color=gray)
