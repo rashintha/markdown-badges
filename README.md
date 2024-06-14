@@ -8,16 +8,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![.ENV](https://img.shields.io/badge/.env-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
 ![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&labelColor=gray&color=%23ECD53F)
 
 ![.ENV](https://img.shields.io/badge/.env-badge?style=for-the-badge&logo=dotenv&logoColor=white&color=%23ECD53F)
 ![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=white&label=.ENV&labelColor=%23ECD53F&color=gray)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=white&labelColor=%23ECD53F&color=gray)
 
 ```md
 ![.ENV](https://img.shields.io/badge/.env-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&color=gray)
 ![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&label=.ENV&labelColor=gray&color=%23ECD53F)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=%23ECD53F&labelColor=gray&color=%23ECD53F)
 
 ![.ENV](https://img.shields.io/badge/.env-badge?style=for-the-badge&logo=dotenv&logoColor=white&color=%23ECD53F)
 ![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=white&label=.ENV&labelColor=%23ECD53F&color=gray)
+![.ENV](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=dotenv&logoColor=white&labelColor=%23ECD53F&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
