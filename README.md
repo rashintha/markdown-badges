@@ -176,16 +176,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=gray)
 ![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&label=Firebase&labelColor=gray&color=%23DD2C00)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=gray&color=%23DD2C00)
 
 ![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
 ![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&label=Firebase&labelColor=%23DD2C00&color=gray)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&labelColor=%23DD2C00&color=gray)
 
 ```md
 ![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&color=gray)
 ![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&label=Firebase&labelColor=gray&color=%23DD2C00)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=gray&color=%23DD2C00)
 
 ![Firebase](https://img.shields.io/badge/firebase-badge?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
 ![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&label=Firebase&labelColor=%23DD2C00&color=gray)
+![Firebase](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=firebase&logoColor=white&labelColor=%23DD2C00&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -194,16 +198,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
 ![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&label=Go&labelColor=gray&color=%2300ADD8)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&labelColor=gray&color=%2300ADD8)
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
 ![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=white&label=Go&labelColor=%2300ADD8&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=white&labelColor=%2300ADD8&color=gray)
 
 ```md
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
 ![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&label=Go&labelColor=gray&color=%2300ADD8)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&labelColor=gray&color=%2300ADD8)
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
 ![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=white&label=Go&labelColor=%2300ADD8&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=go&logoColor=white&labelColor=%2300ADD8&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -212,16 +220,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Google Cloud](https://img.shields.io/badge/google_cloud-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&color=gray)
 ![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&label=Google%20Cloud&labelColor=gray&color=%234285F4)
+![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&labelColor=gray&color=%234285F4)
 
 ![Google Cloud](https://img.shields.io/badge/google_cloud-badge?style=for-the-badge&logo=google-cloud&logoColor=white&color=%234285F4)
 ![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=white&label=Google%20Cloud&labelColor=%234285F4&color=gray)
+![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=%234285F4&color=gray)
 
 ```md
 ![Google Cloud](https://img.shields.io/badge/google_cloud-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&color=gray)
 ![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&label=Google%20Cloud&labelColor=gray&color=%234285F4)
+![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=%234285F4&labelColor=gray&color=%234285F4)
 
 ![Google Cloud](https://img.shields.io/badge/google_cloud-badge?style=for-the-badge&logo=google-cloud&logoColor=white&color=%234285F4)
 ![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=white&label=Google%20Cloud&labelColor=%234285F4&color=gray)
+![Google Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=%234285F4&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
