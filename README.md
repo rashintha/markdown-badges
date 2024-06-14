@@ -242,16 +242,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
 ![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&label=i18next&labelColor=gray&color=%2326A69A)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&labelColor=gray&color=%2326A69A)
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=white&color=%2326A69A)
 ![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&label=i18next&labelColor=%2326A69A&color=gray)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&labelColor=%2326A69A&color=gray)
 
 ```md
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
 ![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&label=i18next&labelColor=gray&color=%2326A69A)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&labelColor=gray&color=%2326A69A)
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=white&color=%2326A69A)
 ![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&label=i18next&labelColor=%2326A69A&color=gray)
+![i18next](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=i18next&logoColor=white&labelColor=%2326A69A&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -260,16 +264,20 @@ A list of markdown badges you can use in your markdown files.
 
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-badge?style=for-the-badge&logo=microsoft-sql-server&color=gray&logoColor=%23CC2927)
 ![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=%23CC2927&label=Microsoft%20SQL%20Server&labelColor=gray&color=%23CC2927)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=%23CC2927&labelColor=gray&color=%23CC2927)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&label=Microsoft%20SQL%20Server&labelColor=%23CC2927&color=gray)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=%23CC2927&color=gray)
 
 ```md
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-badge?style=for-the-badge&logo=microsoft-sql-server&color=gray&logoColor=%23CC2927)
 ![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=%23CC2927&label=Microsoft%20SQL%20Server&labelColor=gray&color=%23CC2927)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=%23CC2927&labelColor=gray&color=%23CC2927)
 
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft_sql_server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&label=Microsoft%20SQL%20Server&labelColor=%23CC2927&color=gray)
+![Microsoft SQL Server](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=%23CC2927&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
@@ -278,17 +286,21 @@ A list of markdown badges you can use in your markdown files.
 
 ![MongoDB](https://img.shields.io/badge/mongodb-badge?style=for-the-badge&logo=mongodb&color=gray)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=MONGODB&labelColor=gray&color=%2347A248)
+![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=gray&color=%2347A248)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=white&label=MONGODB&labelColor=%2347A248&color=gray)
+![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248&color=gray)
 
 
 ```md
 ![MongoDB](https://img.shields.io/badge/mongodb-badge?style=for-the-badge&logo=mongodb&color=gray)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=MONGODB&labelColor=gray&color=%2347A248)
+![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=gray&color=%2347A248)
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=white&label=MONGODB&labelColor=%2347A248&color=gray)
+![MongoDB](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
