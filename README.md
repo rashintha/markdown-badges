@@ -128,6 +128,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**CSS3**
+
+![CSS3](https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&color=gray)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&label=css3&labelColor=gray&color=%231572B6)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=gray&color=%231572B6)
+
+![CSS3](https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=white&label=css3&labelColor=%231572B6&color=gray)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=gray)
+
+```md
+![CSS3](https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&color=gray)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&label=css3&labelColor=gray&color=%231572B6)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=gray&color=%231572B6)
+
+![CSS3](https://img.shields.io/badge/css3-badge?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=white&label=css3&labelColor=%231572B6&color=gray)
+![CSS3](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Font Awesome**
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
