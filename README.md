@@ -305,6 +305,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Node.js**
+
+![Node.js](https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&color=gray)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=Node.js&labelColor=gray&color=%235FA04E)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=gray&color=%235FA04E)
+
+![Node.js](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&label=Node.js&labelColor=%235FA04E&color=gray)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=gray)
+
+```md
+![Node.js](https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&color=gray)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=Node.js&labelColor=gray&color=%235FA04E)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=gray&color=%235FA04E)
+
+![Node.js](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&label=Node.js&labelColor=%235FA04E&color=gray)
+![Node.js](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **RabbitMQ**
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
