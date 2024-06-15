@@ -333,7 +333,7 @@ A list of markdown badges you can use in your markdown files.
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&label=nodemon&labelColor=gray&color=%2376D04B)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&labelColor=gray&color=%2376D04B)
 
-![Nodemon](https://img.shields.io/badge/node.js-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&label=nodemon&labelColor=%2376D04B&color=gray)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=%2376D04B&color=gray)
 
@@ -342,7 +342,7 @@ A list of markdown badges you can use in your markdown files.
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&label=nodemon&labelColor=gray&color=%2376D04B)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&labelColor=gray&color=%2376D04B)
 
-![Nodemon](https://img.shields.io/badge/node.js-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&label=nodemon&labelColor=%2376D04B&color=gray)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=%2376D04B&color=gray)
 ```
