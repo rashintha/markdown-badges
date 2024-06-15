@@ -238,6 +238,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**HTML5**
+
+![HTML5](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=gray)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&label=html5&labelColor=gray&color=%23E34F26)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=gray&color=%23E34F26)
+
+![HTML5](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=white&label=html5&labelColor=%23E34F26&color=gray)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=gray)
+
+```md
+![HTML5](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=gray)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&label=html5&labelColor=gray&color=%23E34F26)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=gray&color=%23E34F26)
+
+![HTML5](https://img.shields.io/badge/html5-badge?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=white&label=html5&labelColor=%23E34F26&color=gray)
+![HTML5](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **i18next**
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
