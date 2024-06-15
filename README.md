@@ -327,6 +327,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Nodemon**
+
+![Nodemon](https://img.shields.io/badge/nodemon-badge?style=for-the-badge&logo=nodemon&color=gray)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&label=nodemon&labelColor=gray&color=%2376D04B)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&labelColor=gray&color=%2376D04B)
+
+![Nodemon](https://img.shields.io/badge/node.js-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&label=nodemon&labelColor=%2376D04B&color=gray)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=%2376D04B&color=gray)
+
+```md
+![Nodemon](https://img.shields.io/badge/nodemon-badge?style=for-the-badge&logo=nodemon&color=gray)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&label=nodemon&labelColor=gray&color=%2376D04B)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&labelColor=gray&color=%2376D04B)
+
+![Nodemon](https://img.shields.io/badge/node.js-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&label=nodemon&labelColor=%2376D04B&color=gray)
+![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=%2376D04B&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **RabbitMQ**
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
