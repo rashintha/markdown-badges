@@ -457,3 +457,25 @@ A list of markdown badges you can use in your markdown files.
 ![Tailwind CSS](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
+
+
+**TS-Node**
+
+![TS-Node](https://img.shields.io/badge/ts_node-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&color=gray)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&label=TS%20Node&labelColor=gray&color=%233178C6)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&labelColor=gray&color=%233178C6)
+
+![TS-Node](https://img.shields.io/badge/ts_node-badge?style=for-the-badge&logo=tsnode&logoColor=white&color=%233178C6)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=white&label=TS%20Node&labelColor=%233178C6&color=gray)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=white&labelColor=%233178C6&color=gray)
+
+```md
+![TS-Node](https://img.shields.io/badge/ts_node-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&color=gray)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&label=TS%20Node&labelColor=gray&color=%233178C6)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=%233178C6&labelColor=gray&color=%233178C6)
+
+![TS-Node](https://img.shields.io/badge/ts_node-badge?style=for-the-badge&logo=tsnode&logoColor=white&color=%233178C6)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=white&label=TS%20Node&labelColor=%233178C6&color=gray)
+![TS-Node](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=tsnode&logoColor=white&labelColor=%233178C6&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
