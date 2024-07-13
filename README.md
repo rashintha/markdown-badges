@@ -150,6 +150,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Docker**
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&label=docker&labelColor=gray&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=gray&color=%232496ED)
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&label=docker&labelColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED&color=gray)
+
+```md
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&label=docker&labelColor=gray&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=gray&color=%232496ED)
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&label=docker&labelColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Font Awesome**
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
