@@ -349,6 +349,29 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**MySQL**
+
+![MySQL](https://img.shields.io/badge/mysql-badge?style=for-the-badge&logo=mysql&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=gray&color=%234479A1)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=gray&color=%234479A1)
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=gray)
+
+
+```md
+![MySQL](https://img.shields.io/badge/mysql-badge?style=for-the-badge&logo=mysql&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=gray&color=%234479A1)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=gray&color=%234479A1)
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Node.js**
 
 ![Node.js](https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&color=gray)
