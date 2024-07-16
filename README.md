@@ -304,6 +304,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Huawei**
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei&labelColor=gray&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei&labelColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+
+```md
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei&labelColor=gray&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei&labelColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **i18next**
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
