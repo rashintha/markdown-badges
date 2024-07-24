@@ -482,6 +482,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**NuGet**
+
+![NuGet](https://img.shields.io/badge/nuget-badge?style=for-the-badge&logo=nuget&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&label=nuget&labelColor=gray&color=%23004880)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&labelColor=gray&color=%23004880)
+
+![NuGet](https://img.shields.io/badge/nuget-%23004880?style=for-the-badge&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&label=nuget&labelColor=%23004880&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&labelColor=%23004880&color=gray)
+
+```md
+![NuGet](https://img.shields.io/badge/nuget-badge?style=for-the-badge&logo=nuget&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&label=nuget&labelColor=gray&color=%23004880)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&labelColor=gray&color=%23004880)
+
+![NuGet](https://img.shields.io/badge/nuget-%23004880?style=for-the-badge&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&label=nuget&labelColor=%23004880&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&labelColor=%23004880&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **RabbitMQ**
 
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-badge?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600&color=gray)
