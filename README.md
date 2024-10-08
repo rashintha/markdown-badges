@@ -700,3 +700,10 @@ A list of markdown badges you can use in your markdown files.
 ![TypeScript](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
+
+
+## Contributors
+
+<a href = "https://github.com/rashintha/markdown-badges/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=rashintha/markdown-badges"/>
+</a>
