@@ -695,7 +695,7 @@ A list of markdown badges you can use in your markdown files.
 ![TypeScript](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=gray&color=%233178C6)
 ![TypeScript](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=gray&color=%233178C6)
 
-![TypeScript](https://img.shields.io/badge/ts_node-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
+![TypeScript](https://img.shields.io/badge/typescript-badge?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![TypeScript](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=typescript&logoColor=white&label=typescript&labelColor=%233178C6&color=gray)
 ![TypeScript](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6&color=gray)
 ```
