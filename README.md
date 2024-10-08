@@ -216,6 +216,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**GNU Bash**
+
+![Go](https://img.shields.io/badge/gnu_bash-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&label=GNU%Bash&labelColor=gray&color=%234EAA25)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&labelColor=gray&color=%234EAA25)
+
+![Go](https://img.shields.io/badge/gnu_bash-badge?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=white&label=GNU%Bash&labelColor=%234EAA25&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=%234EAA25&color=gray)
+
+```md
+![Go](https://img.shields.io/badge/gnu_bash-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&label=GNU%Bash&labelColor=gray&color=%234EAA25)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&labelColor=gray&color=%234EAA25)
+
+![Go](https://img.shields.io/badge/gnu_bash-badge?style=for-the-badge&logo=gnubash&logoColor=white&color=%234EAA25)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=white&label=GNU%Bash&labelColor=%234EAA25&color=gray)
+![Go](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=%234EAA25&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+  
+
 **Go**
 
 ![Go](https://img.shields.io/badge/go-badge?style=for-the-badge&logo=go&logoColor=%2300ADD8&color=gray)
