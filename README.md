@@ -150,6 +150,28 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Docker**
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&label=docker&labelColor=gray&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=gray&color=%232496ED)
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&label=docker&labelColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED&color=gray)
+
+```md
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&label=docker&labelColor=gray&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=gray&color=%232496ED)
+
+![Docker](https://img.shields.io/badge/docker-badge?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&label=docker&labelColor=%232496ED&color=gray)
+![Docker](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Font Awesome**
 
 ![Font Awesome](https://img.shields.io/badge/font_awesome-badge?style=for-the-badge&logo=font-awesome&logoColor=%23538DD7&color=gray)
@@ -304,6 +326,50 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**Huawei**
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei&labelColor=gray&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei&labelColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+
+```md
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei&labelColor=gray&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei](https://img.shields.io/badge/huawei-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei&labelColor=%23FF0000&color=gray)
+![Huawei](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
+**Huawei Cloud**
+
+![Huawei Cloud](https://img.shields.io/badge/huawei_cloud-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei%20Cloud&labelColor=gray&color=%23FF0000)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei Cloud](https://img.shields.io/badge/huawei_cloud-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei%20Cloud&labelColor=%23FF0000&color=gray)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+
+```md
+![Huawei Cloud](https://img.shields.io/badge/huawei_cloud-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&color=gray)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&label=Huawei%20Cloud&labelColor=gray&color=%23FF0000)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=%23FF0000&labelColor=gray&color=%23FF0000)
+
+![Huawei Cloud](https://img.shields.io/badge/huawei_cloud-badge?style=for-the-badge&logo=huawei&logoColor=white&color=%23FF0000)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&label=Huawei%20Cloud&labelColor=%23FF0000&color=gray)
+![Huawei Cloud](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=huawei&logoColor=white&labelColor=%23FF0000&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **i18next**
 
 ![i18next](https://img.shields.io/badge/i18next-badge?style=for-the-badge&logo=i18next&logoColor=%2326A69A&color=gray)
@@ -371,6 +437,29 @@ A list of markdown badges you can use in your markdown files.
 * Find the `Replace_me` text and replace it with what you desire.
 
 
+**MySQL**
+
+![MySQL](https://img.shields.io/badge/mysql-badge?style=for-the-badge&logo=mysql&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=gray&color=%234479A1)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=gray&color=%234479A1)
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=gray)
+
+
+```md
+![MySQL](https://img.shields.io/badge/mysql-badge?style=for-the-badge&logo=mysql&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=gray&color=%234479A1)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=gray&color=%234479A1)
+
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&label=MySQL&labelColor=%234479A1&color=gray)
+![MySQL](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
 **Node.js**
 
 ![Node.js](https://img.shields.io/badge/node.js-badge?style=for-the-badge&logo=nodedotjs&color=gray)
@@ -411,6 +500,28 @@ A list of markdown badges you can use in your markdown files.
 ![Nodemon](https://img.shields.io/badge/nodemon-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&label=nodemon&labelColor=%2376D04B&color=gray)
 ![Nodemon](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=%2376D04B&color=gray)
+```
+* Find the `Replace_me` text and replace it with what you desire.
+
+
+**NuGet**
+
+![NuGet](https://img.shields.io/badge/nuget-badge?style=for-the-badge&logo=nuget&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&label=nuget&labelColor=gray&color=%23004880)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&labelColor=gray&color=%23004880)
+
+![NuGet](https://img.shields.io/badge/nuget-%23004880?style=for-the-badge&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&label=nuget&labelColor=%23004880&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&labelColor=%23004880&color=gray)
+
+```md
+![NuGet](https://img.shields.io/badge/nuget-badge?style=for-the-badge&logo=nuget&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&label=nuget&labelColor=gray&color=%23004880)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=%23004880&labelColor=gray&color=%23004880)
+
+![NuGet](https://img.shields.io/badge/nuget-%23004880?style=for-the-badge&logo=nuget&logoColor=white)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&label=nuget&labelColor=%23004880&color=gray)
+![NuGet](https://img.shields.io/badge/Replace_me-badge?style=for-the-badge&logo=nuget&logoColor=white&labelColor=%23004880&color=gray)
 ```
 * Find the `Replace_me` text and replace it with what you desire.
 
